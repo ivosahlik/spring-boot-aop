@@ -1,0 +1,6 @@
+/Users/ivosahlik/Public/workspace-spring-boot/SpringBoot-AOP/src/main/java/cz/ivosahlik/model/domain/User.java
+/Users/ivosahlik/Public/workspace-spring-boot/SpringBoot-AOP/src/main/java/cz/ivosahlik/controller/UserController.java
+/Users/ivosahlik/Public/workspace-spring-boot/SpringBoot-AOP/src/main/java/cz/ivosahlik/aspects/LogHandler.java
+/Users/ivosahlik/Public/workspace-spring-boot/SpringBoot-AOP/src/main/java/cz/ivosahlik/SpringBootAOPExampleApplication.java
+/Users/ivosahlik/Public/workspace-spring-boot/SpringBoot-AOP/src/main/java/cz/ivosahlik/model/dto/ResultDTO.java
+/Users/ivosahlik/Public/workspace-spring-boot/SpringBoot-AOP/src/main/java/cz/ivosahlik/service/UserService.java
